@@ -19,7 +19,7 @@ If you want to also consume these messages, look at the examples at:
 
 https://github.com/miguelpais/kafka-consumers
 
-** Build instructions **
+**Build instructions**
 
     npm install
     npm run build

@@ -13,4 +13,4 @@ http://www.allprogrammingtutorials.com/tutorials/adding-partitions-to-topic-in-a
 
 This server runs against the following docker environment:
 
-http://miguelpais.github.com/kafka
+https://github.com/miguelpais/kafka
